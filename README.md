@@ -71,9 +71,9 @@ SpendArc is an Android app built with modern tools and a privacy-first architect
 
 ## Links
 
-- 🌐 Website: *Coming soon*
+- 🌐 Website: [www.spendarc.com](https://www.spendarc.com)
 - 📲 Google Play: *Coming soon*
-- 📧 Contact: See [CONTACT.md](CONTACT.md)
+- 📧 Support: [support@spendarc.com](mailto:support@spendarc.com)
 
 ---
 
