@@ -1,0 +1,14 @@
+Last Updated: March 15, 2026
+
+This folder contains selected screenshots and high-level reference material
+for the SpendArc application.
+
+Purpose:
+- Provide a visual overview of the app experience
+- Share public-facing information only
+- Support documentation, demos, and external communication
+
+Notes:
+- No source code is included here
+- Screenshots may not reflect the latest production build
+- Features shown are subject to change
