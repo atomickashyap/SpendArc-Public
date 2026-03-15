@@ -58,7 +58,7 @@ The AI assistant lets you ask questions about your spending in natural language.
 
 ### Is SpendArc free?
 
-Pricing details will be shared closer to public launch. Check [CONTACT.md](CONTACT.md) for updates.
+**Yes.** SpendArc is completely free to use. As the app grows and evolves, we may explore optional ways to sustain the project — such as non-intrusive ads or premium features — depending on the user base and ongoing development costs. Any changes will be communicated transparently, and core functionality will always remain accessible.
 
 ---
 
@@ -70,7 +70,7 @@ See [CONTACT.md](CONTACT.md) for ways to reach us.
 
 ### Can I contribute to SpendArc?
 
-Since SpendArc is not open source, code contributions are not accepted through SpendArc‑Public. However, we welcome feedback, feature ideas, and bug reports — see [CONTACT.md](CONTACT.md).
+**Yes!** We welcome contributors. If you're interested, reach out to us — we'll have a quick conversation to understand your skills and interests, and find the right way for you to get involved. See [CONTACT.md](CONTACT.md) to get in touch.
 
 ---
 
