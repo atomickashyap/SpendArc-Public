@@ -6,10 +6,10 @@ We'd love to hear from you — whether it's feedback, bug reports, feature ideas
 
 ## Get in Touch
 
-- 📧 **Email:** *[your-email@example.com]* — *(replace with your actual contact email)*
+- 📧 **Email:** [support@spendarc.com](mailto:support@spendarc.com)
 - 🐛 **Bug Reports:** Open an issue in [SpendArc‑Public Issues](../../issues).
 - 💡 **Feature Requests:** Open an issue with the label `feature-request`.
-- 🌐 **Website:** *Coming soon*
+- 🌐 **Website:** [www.spendarc.com](https://www.spendarc.com)
 
 ---
 
@@ -22,8 +22,8 @@ We'd love to hear from you — whether it's feedback, bug reports, feature ideas
 
 ## Social
 
-- 🐦 **Twitter / X:** *[Add your handle]*
-- 💼 **LinkedIn:** *[Add your profile]*
+- 🐦 **Twitter / X:** [@atomickashyap](https://x.com/atomickashyap)
+- 💼 **LinkedIn:** [atomickashyap](https://www.linkedin.com/in/atomickashyap/)
 
 ---
 
